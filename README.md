@@ -1,1 +1,1 @@
-# capstone
+This C++ program showcases an Embedded Linux Multimedia System. It initializes the system, customizes it with options, handles bug fixes, and simulates running multimedia functionalities. The program highlights basic functionalities of an Embedded Linux system in a concise manner.
